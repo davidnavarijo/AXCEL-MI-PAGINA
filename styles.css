@@ -237,7 +237,7 @@ html{
 
 /* REGISTRO */
 .modal {
-  display: content;
+  display: contents;
   position: fixed;
   z-index: 99;
   left: 0; top: 0;
